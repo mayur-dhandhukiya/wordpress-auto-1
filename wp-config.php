@@ -23,9 +23,11 @@
 define( 'DB_NAME', 'wordpress-auto-1' );
 
 /** Database username */
+// define( 'DB_USER', 'root' );
 define( 'DB_USER', 'live' );
 
 /** Database password */
+// define( 'DB_PASSWORD', 'Webby@123' );
 define( 'DB_PASSWORD', 'Live@#$2022' );
 
 /** Database hostname */
